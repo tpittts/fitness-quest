@@ -24,10 +24,10 @@ const REWARDS = [
   { xp: 350,  name: "Fancy Water Tumbler",              emoji: "💧" },
   { xp: 450,  name: "Nespresso Pods or Energy Drinks",  emoji: "⚡" },
   { xp: 600,  name: "New Tennis Racket",                emoji: "🎾" },
-  { xp: 800,  name: "Massage or Spa Day",               emoji: "💆" },
-  { xp: 1000, name: "5K Race Entry",                    emoji: "🏅" },
-  { xp: 1400, name: "New Sneakers",                     emoji: "👠" },
-  { xp: 1800, name: "Gym Trial Membership",             emoji: "🏋️" },
+  { xp: 1000, name: "Massage or Spa Day",               emoji: "💆" },
+  { xp: 1100, name: "Gym Trial Membership",             emoji: "🏋️" },
+  { xp: 1400, name: "5K Race Entry",                    emoji: "🏅" },
+  { xp: 1800, name: "New Sneakers",                     emoji: "👠" },
 ];
 
 const WEEKS = 10;
